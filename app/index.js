@@ -11,8 +11,8 @@ const users = [
     name: 'Jack Pyles',
   },
   {
-    username: 'hettykc',
-    name: 'Hetty Cline',
+    username: 'hkc82',
+    name: 'Hetty KC',
   },
 ];
 
